@@ -9,7 +9,7 @@
 	<url>http://maven.apache.org</url>
 	<properties>
 		<!-- jdk 版本号 -->
-		<jdk.version>1.7</jdk.version>
+		<jdk.version>1.8</jdk.version>
 		<!-- maven 版本号 -->
 		<org.apache.maven.plugins.version>3.3</org.apache.maven.plugins.version>
 		<!-- junit 版本号 -->
