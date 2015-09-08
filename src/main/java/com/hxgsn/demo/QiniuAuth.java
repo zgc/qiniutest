@@ -1,4 +1,4 @@
-package com.hxgsn.dome;
+package com.hxgsn.demo;
 
 import org.junit.Test;
 
